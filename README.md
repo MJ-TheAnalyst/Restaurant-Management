@@ -195,6 +195,8 @@ group by order_id, category;
 
 ### Data Visualization: 
 
+<img width="960" height="490" alt="Restaurant Management Visualization (cropped)" src="https://github.com/user-attachments/assets/24486d3f-946e-4f3a-974d-dedbc8bf605b" />
+
 The Excel Dashboard provided a visual summary of key insights from restaurant operations data, focusing on menu pricing, order trends, and item popularity.
 Key Highlights included:
 
