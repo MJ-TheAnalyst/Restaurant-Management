@@ -8,7 +8,6 @@
 - [Tools](#tools)
 - [Data Initialization](#data-initialization)
 - [Exploratory Data Analysis](#exploratory-data-analysis) 
-- [Data Analysis](#data-analysis) 
 - [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
