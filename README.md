@@ -49,7 +49,8 @@ We explored the restaurant's data to answer key questions like:
 
 ### Data Visualization: 
 
-<img width="960" height="490" alt="Restaurant Management Visualization (cropped)" src="https://github.com/user-attachments/assets/24486d3f-946e-4f3a-974d-dedbc8bf605b" />
+<<img width="802" height="322" alt="New Restaurant Management visualization 2 " src="https://github.com/user-attachments/assets/2ff4cb30-09a8-4466-ac48-b231960e4800" />
+>
 
 The Excel Dashboard provided a visual summary of key insights from restaurant operations data, focusing on menu pricing, order trends, and item popularity.
 Key Highlights included:
